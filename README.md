@@ -3,12 +3,7 @@
 <h3 align="center">uela li</h3>
 <hr>
 
-<br>
-<br>
-
-<hr>
 - 🔭 I’m currently working on **Ball Maze**
-<hr>
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
