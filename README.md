@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lorenzo Spadea</h1>
 <hr>
-<h3 align="center">IT student from Switzerland 🇨🇭</h3>
+<h3 align="center">IT student from Switzerland ![image](https://user-images.githubusercontent.com/62604900/195620776-c776fd72-e35f-4163-a678-aa2c804572c1.png)🇭</h3>
 <hr>
 
 - 🔭 I’m currently working on **Ball Maze**
