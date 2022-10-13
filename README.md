@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SpadeaLorenzo</h1>
 <h3 align="center">uela li</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spadealorenzo" alt="spadealorenzo" /></a> </p>
+
 
 <br>
 <br>
