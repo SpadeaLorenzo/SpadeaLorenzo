@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lorenzo Spadea</h1>
-<h3 align="center">uela li</h3>
 <hr>
-
+<h3 align="center">uela li</h3>
 <hr>
 
 <br>
