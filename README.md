@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lorenzo Spadea</h1>
 <hr>
-<h3 align="center">uela li</h3>
+<h3 align="center">IT student from Switzerland 🇨🇭</h3>
 <hr>
 
 - 🔭 I’m currently working on **Ball Maze**
